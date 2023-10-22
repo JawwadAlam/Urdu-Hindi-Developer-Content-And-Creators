@@ -14,3 +14,4 @@ We only list content and creators with Urdu or Hindi content.
 | Topic         | Creator     | Area | Notes |
 |--------------|-----------|------------|------------|
 | [C# Tutorial For Beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfLseCtdZg1a3XBsDFbRVfd) | Fahad Hussain      | Programming |         |
+| [Assembly Language Programming Tutorials in Urdu Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) | Programology      | Programming |         |
