@@ -8,3 +8,9 @@ When I say Dev Content, it could be content related to any of the Software Devel
 
 ## 🗣️ Language
 We only list content and creators with Urdu or Hindi content.
+
+## :notebook_with_decorative_cover: Content
+
+| Topic         | Creator     | Area | Notes |
+|--------------|-----------|------------|------------|
+| [C# Tutorial For Beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfLseCtdZg1a3XBsDFbRVfd) | Fahad Hussain      | Programming |         |
