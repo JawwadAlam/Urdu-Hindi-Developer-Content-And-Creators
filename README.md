@@ -34,4 +34,8 @@ We only list content and creators with Urdu or Hindi content.
 
 ## :angel: Creators
 
-TODO
+### DevOps
+
+| Resource         | Creator     | Sub Area | Notes |
+|--------------|-----------|------------|------------|
+| [Babar Zahoor](https://www.youtube.com/@babarzahoor) | :video_camera: Babar Zahoor |  | OS, Open Source|
