@@ -26,6 +26,12 @@ We only list content and creators with Urdu or Hindi content.
 |--------------|-----------|------------|------------|
 | [Ui/UX Design \| Complete Trainings \| Urdu\Hindi](https://www.youtube.com/playlist?list=PLspW40rZgNemcESvd7g9mz8gldTKTLy-d) | :video_camera: Tutorials Town | UI/UX |         |
 
+### DevOps
+
+| Topic         | Creator     | Sub Area | Notes |
+|--------------|-----------|------------|------------|
+| [Basic Introduction to Linux](https://www.youtube.com/watch?v=IA1hAqV0Vnc&list=PLBiQy5tO4R2OEGyUv0aY-opEV5mDgOaHS) | :video_camera: Babar Zahoor | Operating Systems |         |
+
 ## :angel: Creators
 
 TODO
