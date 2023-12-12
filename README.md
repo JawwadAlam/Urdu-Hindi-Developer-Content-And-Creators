@@ -31,6 +31,7 @@ We only list content and creators with Urdu or Hindi content.
 | Topic         | Creator     | Sub Area | Notes |
 |--------------|-----------|------------|------------|
 | [Basic Introduction to Linux](https://www.youtube.com/watch?v=IA1hAqV0Vnc&list=PLBiQy5tO4R2OEGyUv0aY-opEV5mDgOaHS) | :video_camera: Babar Zahoor | Operating Systems |         |
+| [Advanced Linux and DevOps Training](https://www.youtube.com/watch?v=NhZNHsbC3u8&list=PLBiQy5tO4R2MPkXm4RbpygoQgRL_1Ik5Z) | :video_camera: Babar Zahoor | Advance Operating Systems |         |
 
 ## :angel: Creators
 
