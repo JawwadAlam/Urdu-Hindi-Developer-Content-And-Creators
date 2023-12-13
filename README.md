@@ -40,3 +40,9 @@ We only list content and creators with Urdu or Hindi content.
 | Resource         | Creator     | Sub Area | Notes |
 |--------------|-----------|------------|------------|
 | [Babar Zahoor](https://www.youtube.com/@babarzahoor) | :video_camera: Babar Zahoor |  | OS, Open Source|
+
+### Web Development
+
+| Resource         | Creator     | Sub Area | Notes |
+|--------------|-----------|------------|------------|
+| [WP Academy](https://www.youtube.com/@WPAcademyPK) | :video_camera: WP Academy |  | Wordpress |
